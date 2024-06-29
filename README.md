@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Cloud Engineer
 ------------------------------
 
-I've been working as a developer for 3 years having knowledge in HTML,CSS,JS,SQL,PowerBI,Excel and Cloud Technologies like Azure,Azure DevOps .
+I've been working as a developer for 3 years having knowledge in HTML, CSS, JS, SQL, PowerBI, Excel and Cloud Technologies like Azure, Azure DevOps .
 
 * 🌍  I'm based in Vijayawada,India
 * ✉️  You can contact me at [mdashraf8601@gmail.com](mailto:mdashraf8601@gmail.com)
