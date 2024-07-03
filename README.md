@@ -9,7 +9,7 @@ I've been working as a developer for 3 years having knowledge in HTML, CSS, JS, 
 * 🌍  I'm based in Vijayawada,India
 * ✉️  You can contact me at [mdashraf8601@gmail.com](mailto:mdashraf8601@gmail.com)
 * 🧠  I'm learning Service Now
-* 🤝  I'm open to collaborating on Development and Testing projects based on web development and Cloud Technology
+* 🤝  I'm open to collaborating on Development and Testing projects based on data and Cloud Technology
 
 <a href="https://www.twitter.com/Ashraf_asks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ashraf_asks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
