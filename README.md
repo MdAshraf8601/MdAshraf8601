@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Ashraf
 =================================================================================================================================
-Web Developer & Cloud Engineer
+Data Analyst
 ------------------------------
 
 I've been working as a developer for 3 years having knowledge in HTML, CSS, JS, SQL, PowerBI, Excel and Cloud Technologies like Azure, Azure DevOps .
