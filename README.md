@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------------------------
 
-I've been working as a Analyst for 3 years having knowledge in SQL, PowerBI, Excel and Cloud Technologies like Azure, Azure DevOps .
+I've worked as an Analyst for 4 years knowing SQL, PowerBI, Excel, and Cloud Technologies like Azure and Azure DevOps.
 
-* 🌍  I'm based in Vijayawada,India
+* 🌍  I'm based in Vijayawada, India.
 * ✉️  You can contact me at [mdashraf8601@gmail.com](mailto:mdashraf8601@gmail.com)
-* 🧠  I'm learning Service Now
-* 🤝  I'm open to collaborating on Development and Testing projects based on data and Cloud Technology
+* 🧠  I'm learning Microsoft Fabric.
+* 🤝  I'm open to collaborating on development and data projects based on Cloud Technology.
 
 <a href="https://www.twitter.com/Ashraf_asks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ashraf_asks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
